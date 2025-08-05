@@ -1,2 +1,5 @@
-# it-checkliste
-Checkliste für kleine Unternehmen zur IT-Sicherheit
+# IT-Checkliste für kleine Unternehmen
+
+Diese Checkliste hilft KMU dabei, ihre IT-Sicherheit zu verbessern.
+
+Mehr Tipps & Services: [www.worxeasy.de](https://www.worxeasy.de)
